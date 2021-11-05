@@ -12,7 +12,9 @@ link do mujava https://cs.gmu.edu/~offutt/mujava/
 
 Execução dos casos de teste sendo aplicados no arquivo original
 ![image](https://user-images.githubusercontent.com/79465402/140443989-bb801248-4f03-4ef6-a872-ae0b0276112e.png)
+
 Analisando se existem resultados diferentes do mutante para o software original 
+
 ![image](https://user-images.githubusercontent.com/79465402/140444038-2ed79f6c-81cb-495a-8c6a-37c2223f4992.png)
 
 Score de mutação: 
