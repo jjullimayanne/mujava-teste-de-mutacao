@@ -9,3 +9,13 @@ Na parte de cima o código original do programa, já na parte de baixo o código
 ![cap2](https://user-images.githubusercontent.com/79465402/140442963-ce7137bd-a728-4a31-935b-3f53bf01168f.JPG)
 
 link do mujava https://cs.gmu.edu/~offutt/mujava/
+
+Execução dos casos de teste sendo aplicados no arquivo original
+![image](https://user-images.githubusercontent.com/79465402/140443989-bb801248-4f03-4ef6-a872-ae0b0276112e.png)
+Analisando se existem resultados diferentes do mutante para o software original 
+![image](https://user-images.githubusercontent.com/79465402/140444038-2ed79f6c-81cb-495a-8c6a-37c2223f4992.png)
+
+Score de mutação: 
+O score varia de 0 a 1, quanto mais próximo de 1 mais adequado está o conjunto de casos de teste. Assim, se um teste de mutação tem resultado 1 isso significa que todos os mutantes apresentaram resultados diferentes do software em teste, e foram mortos e descartados. O que isso significa? que os defeitos produzidos nos mutantes não existem do software original. Quando esse score está mais próximo de 0 significa que os casos de testes não são adequados, ou seja, não identificam a diferença dos mutantes para o software original. 
+
+
