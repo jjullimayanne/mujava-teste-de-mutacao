@@ -1,4 +1,4 @@
-# mujava-teste-de-mutacao
+# Mujava teste de mutacao
 Interface do Mujava após o comando 
 java mujava.gui.GenMutantsMain
 ![teste1](https://user-images.githubusercontent.com/79465402/140442059-b8936d48-cef7-4bdd-a5f7-99648a35aa42.JPG)
@@ -22,7 +22,9 @@ O score varia de 0 a 1, quanto mais próximo de 1 mais adequado está o conjunto
 
 
 #resultado
+
 ![resul](https://user-images.githubusercontent.com/79465402/140444828-6e7b9a00-e3da-4b49-b1b5-af11d8e76d85.JPG)
+
 
 Nenhum mutante foi morto 
 
